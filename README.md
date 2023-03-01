@@ -34,7 +34,12 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=orange)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs)&nbsp;
-![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
-
+![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp; \
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)&nbsp;
+![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=googlecloud)&nbsp;
+![AZURE](https://img.shields.io/badge/-AZURE-05122A?style=flat&logo=microsoftazure)&nbsp; \
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
+![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)&nbsp;
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch)&nbsp;
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MikeHsu0618.MikeHsu0618)
