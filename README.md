@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Mike Hsu!](https://www.linkedin.com/in/hung-hsiang-hsu-76072a168/) 
+## Hey, I'm [Mike Hsu!](https://www.linkedin.com/in/hung-hsiang-hsu-76072a168/)  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 <a href="https://www.linkedin.com/in/hung-hsiang-hsu-76072a168/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
