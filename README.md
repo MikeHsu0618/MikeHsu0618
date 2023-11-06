@@ -14,7 +14,7 @@
 <br />
 
 ### About Me 🚀
-🌱 I’m a Back-end developer. </br>
+🌱 I’m a DevOps / Back-end developer. </br>
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
 
